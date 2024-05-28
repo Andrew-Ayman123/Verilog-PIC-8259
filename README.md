@@ -1,17 +1,15 @@
-# 8259 PIC Project - CSE311s Computer Architecture
+<div align="center">
 
-### Contents:
+  <h1> PIC (Programmable Interrupt Controller)</h1>
+  <img src="https://madewithlove.now.sh/eg?heart=true" alt="Made with love in Egypt">
+  <h3> Remember when your computer had multiple devices yelling for attention? This tiny chip was the referee, making sure each device got a chance to chat with the CPU without causing a meltdown.</h3>
+  
+  <img src="Archi 8259 Project Block Diagram.jpg" alt="logo" height="600" />
 
-1. [Contribution Table](#contribution-table)
-2. [Project Description](#project-description)
-3. [Block Diagram](#block-diagram)
-4. [Description for all signals used](#description-for-all-signals-used)
-5. [Brief description of the testing strategy](#brief-description-of-the-testing-strategy)
-   1. [First Testbench](#1-first-testbench)
-   2. [Second Testbench](#2-second-testbench)
-   3. [Third Testbench](#3-third-testbench)
 
-## Project Description:
+</div>
+
+## 🌟 About The Project:
 
 Design and implement a Programmable Interrupt Controller (PIC) based on the 8259-architecture using Verilog hardware description language. The 8259 PIC is a crucial component in computer systems responsible for managing and prioritizing interrupt requests, facilitating efficient communication between peripherals and the CPU.
 
@@ -30,13 +28,8 @@ Design and implement a Programmable Interrupt Controller (PIC) based on the 8259
 - Reading Status
 
 ---
-## Block Diagram:
 
-<img src="Archi 8259 Project Block Diagram.jpg" alt="Block Diagram">
-
----
-
-## Description for all signals used:
+## 👾 Description for all signals used:
 
 | Signal                           | Description                                              |
 |----------------------------------|----------------------------------------------------------|
@@ -84,7 +77,7 @@ Design and implement a Programmable Interrupt Controller (PIC) based on the 8259
 
 ---
 
-## Brief description of the testing strategy:
+## 🧰 Brief description of the testing strategy:
 
 ### 1. PIC_TB_SINGLE_MODE_AEOI_EDGE Testbench:
 
