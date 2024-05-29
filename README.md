@@ -1,7 +1,8 @@
 <div align="center">
 
   <h1> PIC (Programmable Interrupt Controller)</h1>
-  <img src="https://madewithlove.now.sh/eg?heart=true" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Verilog-07405E?style=for-the-badge" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
   <h3> Remember when your computer had multiple devices yelling for attention? This tiny chip was the referee, making sure each device got a chance to chat with the CPU without causing a meltdown.</h3>
   
   <img src="Archi 8259 Project Block Diagram.jpg" alt="logo" height="600" />
